@@ -1,6 +1,6 @@
 PASSWORD = admin
 
-This is a project that will encrypt the passwd.json file so it cannot be viewed from outside the programme.
+This is a project that will encrypt the passwd.json file (already has test passwords in) so it cannot be viewed from outside the programme.
 
 There are 3 options:
 
