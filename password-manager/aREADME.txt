@@ -2,7 +2,7 @@ PASSWORD = admin
 
 This is a project that will encrypt the passwd.json file (already has test passwords in) so it cannot be viewed from outside the programme.
 
-There are 3 options:
+There are 3 options (currently adding 4th to be able to delete passwords):
 
 1: You can add a password and the corresponding name of the website/applicaion that the password if from which will be appended to the .json file.
 
