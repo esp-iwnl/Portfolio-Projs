@@ -12,6 +12,7 @@ My current skills include:
 - A good understanding of the Kali OS and its terminal.
 - Great foundations of the python language, while also using the LUA language to expand on my Nvim plugins.
 - Problem solving.
+- Humility. If I understand that I am unsure of how to tackle the task at hand, I will take great strides to research and find the answer.
 - Attention to detail as that is paramount within the cyber security field.
 - Solid grasp of renound ethical hacking tools. To name a few:
 . Nmap         . Metasploit-Framework
